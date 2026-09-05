@@ -1,0 +1,24 @@
+# Node dependencies
+node_modules/
+*.log
+
+# Compiled / Assembly outputs & Temp files
+*.o
+*.out
+*.elf
+*.bin
+*.img
+*.iso
+*.tmp
+tmp.*
+tmp/
+
+# Editor / IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
